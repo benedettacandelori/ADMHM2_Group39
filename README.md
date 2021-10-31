@@ -1,7 +1,13 @@
 # Homework 2 
-In our folder You can find two files:
-The first with extension py containing the functions that we create to solve the homework.
-The second file with extension ipynb that contains the finished homework, which is based on steam_reviews.csv dataset which represents many features about the Steam's reviews and where our final purpose is to understand and analyze the dataset and may discover and interpret meaningful patterns in data and eventually understand what a user looks for in a video game.
+
+---
+
+This repository is made up of 2 files:
+
+1. `functions.py` 
+    > It contains the functions that we created to solve the homework and it is imported at the top of the *main.ipynb* file.
+2. `main.ipynb`
+    > It contains all the answers to both research and theoretical questions of the homework which is based on the analysis of the dataset [steam_reviews.csv](https://www.kaggle.com/najzeko/steam-reviews-2021). It contains many features about Steam's reviews and our purpose is to understand and analyze the dataset and discover meaningful patterns in data. 
 
 
 Link of the notebook
