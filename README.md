@@ -1,6 +1,5 @@
 # Homework 2 
 
----
 
 This repository is made up of 2 files:
 
